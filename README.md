@@ -1,4 +1,4 @@
-## SQL Data Analysis Portfolio Project: Sales and Profit Analysis
+## Retail Sales and Profit Insights with SQL 
 ### Project Overview
 Welcome to the Sales and Profit Analysis project! This project involves analyzing sales and profit data from a retail business using SQL. Our goal is to understand key metrics such as total sales, profit, and performance against sales targets. The analysis leverages three datasets: order_list, order_details, and sales_target.
 
@@ -6,11 +6,11 @@ Welcome to the Sales and Profit Analysis project! This project involves analyzin
 1. order_list.csv
 Contains information about customer orders.
 
-Order ID: Unique identifier for each order.
-Order Date: The date the order was placed.
-Customer Name: The name of the customer who placed the order.
-State: The state where the order was delivered.
-City: The city where the order was delivered.
+* Order ID: Unique identifier for each order.
+* Order Date: The date the order was placed.
+* Customer Name: The name of the customer who placed the order.
+* State: The state where the order was delivered.
+* City: The city where the order was delivered.
 
 2. order_details.csv
 Contains detailed information about each order.
